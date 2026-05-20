@@ -56,7 +56,7 @@ git commit -m "Initial release of Weather Diary"
 
 bash
 
-git remote add origin https://github.com/ваш_username/weather-diary.git
+git remote add origin https://github.com/marinakang777/Weather-Diary.git
 git branch -M main
 git push -u origin main
 text
@@ -71,6 +71,6 @@ git init
 git add weather_diary.py .gitignore README.md
 git commit -m "Add Weather Diary application"
 # затем создайте репозиторий на GitHub и выполните:
-git remote add origin https://github.com/ваш_username/weather-diary.git
+git remote add origin https://github.com/marinakang777/Weather-Diary.git
 git branch -M main
 git push -u origin main
